@@ -14,13 +14,9 @@
    <b>Написать мне:</b>
  </div>
 <div id="badges" align="center">
-
-
-  <a href="https://t.me/yulutik/">
- <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" alt="Telegram Badge"/>
-</a>
- 
-  <a href="https://vk.com/yakolesnikova">
+<a href="https://t.me/yulutik/">
+ <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" alt="Telegram Badge"/></a>
+ <a href="https://vk.com/yakolesnikova">
  <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VK Badge"/>
 </a>
  </div>
@@ -33,6 +29,16 @@
 ### 👩🏻‍💻 Обо мне:
 - 📊 Проводила сценарное тестирование с CrowdTesting
 - 🐹 Участвую в исследовательском тестировании с проектом "Хомячки"
-- 🗃️ Изучаю SQL
-- 🛠️ Здесь можно посмотреть мой опыт работы [CV] (cv-link)
+- 🗃️ Самостоятельно изучаю SQL, Postman
+- 🛠️ Здесь можно посмотреть мой опыт работы <a href="https://docs.google.com/presentation/d/1ZW1QbO1gNTYTu-vRacQ2lwDHbxPqiItw1KyqKTNvUg0/edit?usp=sharing">CV</a>
 - 💌 Мне можно написать [email](mailto:malina611@gmail.com)
+
+***
+
+### Статистика
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yulutik&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yulutik&theme=github_dark" alt=""/>
+</div>
+
