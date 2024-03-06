@@ -6,7 +6,7 @@
 </div>
 <div id="hello" align="center"> 
 <h2>
-  QA Engineer <br/><br/>
+  QA Engineer <br/>
   <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="100"/>
 </h2> 
 </div>
