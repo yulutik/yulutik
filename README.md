@@ -25,7 +25,7 @@
  </div>
   <div id="hello" align="center">
 <h3>
-  I'm QA Engineer from Saint-Petersburg
+  QA Engineer from Saint-Petersburg
 </h3>
  </div>
 
